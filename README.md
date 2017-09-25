@@ -4,4 +4,4 @@ Investigación acerca de algunos conceptos clave que se utilizan con frecuencia 
 
 ## Autor
 **Raúl González Cruz**
->*Ingeniería en Sistemas Computacionales, UDLAP**
+>*Ingeniería en Sistemas Computacionales, UDLAP*
